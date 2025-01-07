@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import List from "./components/Mashq1";
 import Text from "./components/mashq2";
 import Color from "./components/mashq4";
-import Pasword from "./components/Mashq3";
+import Pasword from "./components/mashq3";
 import Users from "./components/mashq5";
 import Input from "./components/mashq6";
 import "./App.css";
@@ -16,7 +16,7 @@ function App() {
         {/* <Pasword/> */}
         {/* <Color /> */}
         {/* <Users/> */}
-        <Input/>
+        {/* <Input/> */}
       </div>
     </div>
   );
