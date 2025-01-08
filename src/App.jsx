@@ -6,17 +6,19 @@ import Pasword from "./components/mashq3";
 import Users from "./components/mashq5";
 import Input from "./components/mashq6";
 import "./App.css";
+import Kalkulator from "./components/mashq8";
 
 function App() {
   return (
     <div>
       <div className="mashq1">
-        <List/> 
+        {/* <List/>  */}
         {/* <Text /> */}
         {/* <Pasword/> */}
         {/* <Color /> */}
         {/* <Users/> */}
         {/* <Input/> */}
+        <Kalkulator/>
       </div>
     </div>
   );
