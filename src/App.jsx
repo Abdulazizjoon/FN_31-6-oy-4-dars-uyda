@@ -13,12 +13,12 @@ function App() {
     <div>
       <div className="mashq1">
         <List/> 
-        {/* <Text /> */}
-        {/* <Pasword/> */}
-        {/* <Color /> */}
-        {/* <Users/> */}
-        {/* <Input/> */}
-        {/* <Kalkulator/> */}
+        <Text />
+        <Pasword/>
+        <Color />
+        <Users/>
+        <Input/>
+        <Kalkulator/>
       </div>
     </div>
   );
